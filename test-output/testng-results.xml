@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T17:34:04 IST" name="Suite" finished-at="2024-08-08T17:34:39 IST" duration-ms="35317">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T17:34:04 IST" name="Test" finished-at="2024-08-08T17:34:39 IST" duration-ms="35317">
+      <class name="practice.datadriventesting.CreateOrgTest">
+        <test-method signature="createOrgtest(org.testng.xml.XmlTest)[pri:0, instance:practice.datadriventesting.CreateOrgTest@6973b51b]" started-at="2024-08-08T17:34:04 IST" name="createOrgtest" finished-at="2024-08-08T17:34:39 IST" duration-ms="35277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@6ed6f946]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgtest -->
+      </class> <!-- practice.datadriventesting.CreateOrgTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
